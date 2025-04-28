@@ -44,6 +44,7 @@ const Footer = () => {
         copyright &copy; Backroads travel tours company
         <span id="date"></span> all rights reserved
       </p>
+      <p class="copyright">Developed and Maintained by Dhaneshwar Kumar</p>
     </footer>
   );
 };
